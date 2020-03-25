@@ -16,6 +16,6 @@
   "author": "W Lutz",
   "license": "MIT",
   "dependencies": {
-    "aws-sdk": "^2.479.0"
+    "aws-sdk": "^2.645.0"
   }
 }
